@@ -1,0 +1,5 @@
+c:\users\administrator123\documents\visual studio 2013\Projects\Test\Test\bin\Test.dll.config
+c:\users\administrator123\documents\visual studio 2013\Projects\Test\Test\bin\Test.dll
+c:\users\administrator123\documents\visual studio 2013\Projects\Test\Test\bin\Test.pdb
+c:\users\administrator123\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.dll
+c:\users\administrator123\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.pdb
